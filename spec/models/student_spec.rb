@@ -1,4 +1,5 @@
 require 'rails_helper'
+require '../../app/models/students.rb'
 
 describe Student do
   before(:each) do
